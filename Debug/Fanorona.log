@@ -1,0 +1,9 @@
+﻿  game.c
+c:\users\antar\source\repos\fanorona\fanorona\game.c(147): warning C4013: 'show_turn_info'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  graphics.c
+  main.c
+  subfuncs.c
+c:\users\antar\source\repos\fanorona\fanorona\subfuncs.c(178): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  test.c
+  코드를 생성하고 있습니다...
+  Fanorona.vcxproj -> C:\Users\antar\source\repos\Fanorona\Debug\Fanorona.exe
